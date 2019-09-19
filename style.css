@@ -5,4 +5,7 @@ html {
 
 .jumbotron {
   background-color: yellow;
+  background-image: url(/img/background.jpg);
+  background-position: center;
+  background-size: cover;
 }
